@@ -1,7 +1,11 @@
 #include "binary_trees.h"
 
 /**
+ * binary_tree_insert_left - function that insert le left branch of a tree.
+ * @parent: the parent node
+ * @value: idk
  *
+ * Return: return null if theres no parent,if theres no left branch,return left
  *
  *
  */
