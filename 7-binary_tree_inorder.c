@@ -3,7 +3,7 @@
 /**
  * binary_tree_inorder - function that does in order traversal in a tree.
  * @tree: pointer to the root of the node
- * @function: pointer to the function
+ * @func: pointer to the function
  *
  * Return: nothing if tree or func is null.
  */
